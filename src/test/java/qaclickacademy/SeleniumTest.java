@@ -28,7 +28,7 @@ public class SeleniumTest {
 	public void Bragf23owserAutomation() {
 		System.out.println("BrowserAutomation");
 	}
-	v
+	
 
 	@Test
 	public void ElementsUi() {
