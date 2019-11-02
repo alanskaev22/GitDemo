@@ -8,6 +8,27 @@ public class SeleniumTest {
 	public void BrowserAutomation() {
 		System.out.println("BrowserAutomation");
 	}
+	@Test
+	public void BrowserAutomsdasation() {
+		System.out.println("BrowserAutomation");
+	}
+	@Test
+	public void BrowserAutoasdasdasdamation() {
+		System.out.println("BrowserAutomation");
+	}
+	@Test
+	public void BrowasdadssadserAutomation() {
+		System.out.println("BrowserAutomation");
+	}
+	@Test
+	public void BrowserqrewdqAutomation() {
+		System.out.println("BrowserAutomation");
+	}
+	@Test
+	public void Bragf23owserAutomation() {
+		System.out.println("BrowserAutomation");
+	}
+	v
 
 	@Test
 	public void ElementsUi() {
