@@ -12,6 +12,12 @@ public class AppiumTest {
 	
 	
 	
+	@Test 
+	public void GIT_X_UPDATED_CODE() {
+		System.out.println("NativeAppAndroid");
+	}
+	
+	
 	
 
 	@Test 
