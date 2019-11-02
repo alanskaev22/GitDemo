@@ -4,6 +4,15 @@ import org.testng.annotations.Test;
 
 public class AppiumTest {
 
+	@Test 
+	public void UPDATED_CODE() {
+		System.out.println("NativeAppAndroid");
+	}
+	
+	
+	
+	
+	
 
 	@Test 
 	public void NativeAppAndroid() {
